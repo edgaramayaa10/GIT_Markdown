@@ -11,7 +11,8 @@
 ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img/git%20status.png "Tercer paso")
 ***
 ***1.4 – Intenta subir los ficheros al repositorio remoto mediante al comando git push ¿Se te ocurre que está pasando? (si no lo sabes aún no te preocupes)***  
-![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img/git%20push.png "Cuarto paso")
+![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img/git%20push.png "Cuarto paso")  
+No deja subirlo porque no tenemos URL de destino en ningun repositorio remoto.
 ***
 ***1.5 – Ejecuta el comando git remote –v e investiga porque no nos aparece nada***  
 ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img/git%20commit%20-v.png "Quinto paso")
