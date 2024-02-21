@@ -53,5 +53,22 @@ realizar un commit.***
 ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej2/git%20commit.png "Segundo paso")   
  ***2.4 – Entra en este manual de Markdown y haz un resumen de los principales comandos de
 Git con los que hemos trabajando. Puedes utilizar tablas, imágenes, títulos, enlaces, etc.***  
-
+![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej2/encabezado.png "Tercer paso")  
+***  
+![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej2/negrita.png "Tercer paso")  
+***
+![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej2/cursiva.png "Tercer paso")  
+***
+![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej2/cursivainegrita.png "Tercer paso")  
+***  
+![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej2/enlaces.png "Tercer paso")  
+***  
+![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej2/lineas%20separadoras.png "Tercer paso")  
+***  
+![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej2/citas.png "Tercer paso")  
+***  
+![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej2/imagen.png "Tercer paso")  
+***  
+[Teoria MarkDown](https://medium.com/@davidbernalgonzalez/3-markdown-c82d88c1d222)  
+***
 
