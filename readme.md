@@ -44,7 +44,13 @@ Creandolo desde GitHub es un repositorio remoto.
  ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo]( /img%20ej2/git%20clone.png "Segundo paso")   
  ***2-3 - Añade un fichero readme.md y ejecuta los comandos pertinentes hasta llegar a poder
 realizar un commit.***   
-![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo]( "Segundo paso")   
+![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej2/creacion%20readme.png "Segundo paso")   
+![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej2/git%20remote%20add.png "Segundo paso") 
+![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej2/git%20brunch.png "Segundo paso") 
+![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej2/git%20push%20-u.png "Segundo paso")
+![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej2/git%20remote%20-v.png "Segundo paso")
+![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej2/git%20add.png "Segundo paso") 
+![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej2/git%20commit.png "Segundo paso")   
  ***2.4 – Entra en este manual de Markdown y haz un resumen de los principales comandos de
 Git con los que hemos trabajando. Puedes utilizar tablas, imágenes, títulos, enlaces, etc.***  
 
