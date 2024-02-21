@@ -1,6 +1,6 @@
-# *Edgar Amaya*
-## **Ejercicios Git+Markdown**
-### Ejercicio 1:
+# *Edgar Amaya*  :tm:
+## **Ejercicios Git+Markdown** 🥱
+### Ejercicio 1:1️⃣
 ***
 ***1.1 – Crea un directorio llamado repo01 en local (desde tu máquina) he ejecuta el comando pertinente para que dicho directorio para que se transforme el repositorio en local ¿Cómo podemos identificar que el repositorio se ha inicializado?***    
 ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img/git%20init.png "Primer Paso")
@@ -35,7 +35,7 @@ No deja subirlo porque no tenemos URL de destino en ningun repositorio remoto.
 ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img/1.9.png "Noveno paso")
 Se observa como se han subido todos los cambios.
 ***
-### Ejercicio 2:
+### Ejercicio 2:2️⃣
 ***2.1 - Crea un repositorio llamado repo02 desde GitHub. ¿Sería considerado un repositorio
 local o remoto?***   
 Creandolo desde GitHub es un repositorio remoto.  
