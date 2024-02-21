@@ -41,10 +41,10 @@ local o remoto?***
 Creandolo desde GitHub es un repositorio remoto.  
 ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo]( "Primer paso")   
  ***2.2 – Posteriormente, clónalo (mediante al comando git clone), lo que realizará una copia del repositorio remoto en nuestro equipo, creando con ello un repositorio local a partir del repositorio en remoto***  
- ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej2/repo02%20github.png "Segundo paso")     
+ ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej2/repo02%20github.png "Segundo paso")   
  ***2-3 - Añade un fichero readme.md y ejecuta los comandos pertinentes hasta llegar a poder
 realizar un commit.***   
-![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej2/git%20clone.png "Segundo paso") 
+![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej2/git%20clone.png "Segundo paso")   
  ***2.4 – Entra en este manual de Markdown y haz un resumen de los principales comandos de
 Git con los que hemos trabajando. Puedes utilizar tablas, imágenes, títulos, enlaces, etc.***  
 
