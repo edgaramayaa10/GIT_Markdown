@@ -19,7 +19,7 @@
 ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img/repositorio%20remoto.png "Sexto paso")
 ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img/git%20remote%20add%20origin.png "Sexto paso")  
 ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img/git%20branch.png "Sexto paso")  
-![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img/git%20push%20-u.pnggit "Sexto paso")
+![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img/git%20push%20-u.png "Sexto paso")
 ***
 ***
 ***1.7 – Vuelve a ejecutar el comando git remote –v nuevamente y explica el porque ahora si que aparece***  
