@@ -31,7 +31,7 @@ No deja subirlo porque no tenemos URL de destino en ningun repositorio remoto.
 ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img/git%20push%20final.png "Octavo paso")
 ***
 ***1.9 – Ves al repositorio remoto (en este caso GitHub) y comprueba que se haya realizado el commit correctamente y observa que pasa en el repositorio ¿Observas algo peculiar?***  
-![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/153675215-dff3448c-56bc-4da0-9cf1-6a394fd9c6f8.png "Noveno paso")
+![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img/1.9.png "Noveno paso")
 ***
 
 
