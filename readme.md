@@ -35,6 +35,6 @@ No deja subirlo porque no tenemos URL de destino en ningun repositorio remoto.
 ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img/1.9.png "Noveno paso")
 Se observa como se han subido todos los cambios.
 ***
-
+### Ejercicio 2:
 
 
