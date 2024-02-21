@@ -1,4 +1,4 @@
-# *Edgar Amaya*
+# *Edgar Amaya*🤣
 ## **Ejercicios Git+Markdown** 
 ***1.1 – Crea un directorio llamado repo01 en local (desde tu máquina) he ejecuta el comando pertinente para que dicho directorio para que se transforme el repositorio en local ¿Cómo podemos identificar que el repositorio se ha inicializado?***    
 ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](https://user-images.githubusercontent.com/32896437/153675215-dff3448c-56bc-4da0-9cf1-6a394fd9c6f8.png "Primer Paso")
