@@ -69,6 +69,6 @@ Git con los que hemos trabajando. Puedes utilizar tablas, imágenes, títulos, e
 ***  
 ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej2/imagen.png "Tercer paso")  
 ***  
-:heavy_exclamation_mark: [Teoria MarkDown](https://medium.com/@davidbernalgonzalez/3-markdown-c82d88c1d222) :heavy_exclamation_mark:  
+:heavy_exclamation_mark:📚 [Teoria MarkDown](https://medium.com/@davidbernalgonzalez/3-markdown-c82d88c1d222) :heavy_exclamation_mark:📚  
 ***
 
