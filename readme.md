@@ -4,7 +4,7 @@
 ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img/git%20init.png "Primer Paso")
 ***
 ***1.2 – Añade un documento llamado readme.md dentro del repositorio (recuerda que MD es la extensión de los ficheros Markdown) y documenta en su interior todos los pasos que vas realizando para crear un repositorio, etc. Puedes añadir fotos o lo que creas conveniente***  
-![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](https://user-images.githubusercontent.com/32896437/153675215-dff3448c-56bc-4da0-9cf1-6a394fd9c6f8.png "Segundo Paso")
+![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img/añade%20readme.png)
 ***
 ***1.3 – Añade el fichero que acabamos de añadir al repositorio al staging area, visualiza el estado del repositorio (con git status) y haz un snapshot (commit) del fichero hacía nuestro repositorio local. ¿En que “file status lifecycle” se encuentra el fichero?***  
 ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img/git%20status.png "Tercer paso")
