@@ -36,7 +36,6 @@ No deja subirlo porque no tenemos URL de destino en ningun repositorio remoto.
 Se observa como se han subido todos los cambios.
 ***
 ### Ejercicio 2:
-### Ejercicio 2:
 2.1 - Crea un repositorio llamado repo02 desde GitHub. ¿Sería considerado un repositorio
 local o remoto? 
 Creandolo desde GitHub es un repositorio remoto.  
