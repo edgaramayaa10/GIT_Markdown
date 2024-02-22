@@ -76,7 +76,7 @@ Git con los que hemos trabajando. Puedes utilizar tablas, imágenes, títulos, e
 ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej3/1.png "Captura")    
  ***4.2 – Añade un fichero readme.md vacío al repositorio local, ejecuta los comandos pertinentes para realizar un commit y finalmente, sube los cambios al repositorio remoto que tendrá el mismo nombre repo04.***  
  ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej3/2.png "Captura")  
- ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej3/2.1.png "Captura") 
+ ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej3/2.1.png "Captura")  
  ***4.3 – Crea una rama con tu nombre y la fecha actual (por ejemplo en mi caso la rama se llamará david02032022) desde la cual editaremos el fichero***  
  ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej3/3.png "Captura")   
  ***4.4 – Desde tu rama (david02032022) edita el fichero readme.md de tal forma que quede de la siguiente manera:***  
