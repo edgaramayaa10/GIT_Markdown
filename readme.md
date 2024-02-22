@@ -82,9 +82,9 @@ Git con los que hemos trabajando. Puedes utilizar tablas, imágenes, títulos, e
  ***4.4 – Desde tu rama (david02032022) edita el fichero readme.md de tal forma que quede de la siguiente manera:***  
  ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej3/4.png "Captrua")  
   ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej3/4.1.png "Captrua")  
-   ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej3/4.2.png "Captrua") 
+   ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej3/4.2.png "Captrua")   
  ***4.5 – Haz 3 commits desde nuestra rama (david02032022)***
- ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej3/4.png "Tercer paso") 
+ ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej3/4.png "Tercer paso")  
  ***4.6 – En el siguiente orden realiza lo siguiente:***  
   *4.6.1 – Fusiona tu rama con master*  
   ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej3/6.1.png "Captura")  
