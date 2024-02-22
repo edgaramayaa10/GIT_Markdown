@@ -91,7 +91,7 @@ Git con los que hemos trabajando. Puedes utilizar tablas, imágenes, títulos, e
  *4.6.2 – Haz un push hacía la nube*  
  ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej3/6.2.png "Captra") 
  ***4.7 – Elimina solamente la rama en local david02032022 ya que si eliminásemos la remota no veríamos la rama en remoto.***  
- ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej3/7.png "Captrua") 
+ ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej3/7.png "Captrua")   
  ***4.8 - Visualiza el resultado tanto mediante el comando git log --all --oneline -decorate –graph, como desde el pluging de VSC***  
  ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej3/8.png "Captrua")  
   ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej3/8.1.png "Captrua")
