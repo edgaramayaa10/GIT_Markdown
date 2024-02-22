@@ -78,7 +78,7 @@ Git con los que hemos trabajando. Puedes utilizar tablas, imágenes, títulos, e
  ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej3/2.png "Captura")  
  ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej3/2.1.png "Captura") 
  ***4.3 – Crea una rama con tu nombre y la fecha actual (por ejemplo en mi caso la rama se llamará david02032022) desde la cual editaremos el fichero***  
- ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej3/3.png "Captura") 
+ ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej3/3.png "Captura")   
  ***4.4 – Desde tu rama (david02032022) edita el fichero readme.md de tal forma que quede de la siguiente manera:***  
  ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej3/4.png "Captrua")  
   ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej3/4.1.png "Captrua")  
@@ -87,7 +87,7 @@ Git con los que hemos trabajando. Puedes utilizar tablas, imágenes, títulos, e
  ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej3/4.png "Tercer paso") 
  ***4.6 – En el siguiente orden realiza lo siguiente:***  
   *4.6.1 – Fusiona tu rama con master*  
-  ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej3/6.1.png"Captura")  
+  ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej3/6.1.png "Captura")  
  *4.6.2 – Haz un push hacía la nube*  
  ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej3/6.2.png "Captra") 
  ***4.7 – Elimina solamente la rama en local david02032022 ya que si eliminásemos la remota no veríamos la rama en remoto.***  
