@@ -71,5 +71,5 @@ Git con los que hemos trabajando. Puedes utilizar tablas, imágenes, títulos, e
 ***  
 :heavy_exclamation_mark:📚 [Teoria MarkDown](https://medium.com/@davidbernalgonzalez/3-markdown-c82d88c1d222) :heavy_exclamation_mark:📚  
 ***  
-# Ejercicios HTML  
+
 
