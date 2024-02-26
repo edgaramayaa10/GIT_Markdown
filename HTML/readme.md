@@ -12,4 +12,4 @@ Clona la siguiente página web intentado que se parezca lo máximo posible:
 ### Ejercicio 3  
 ***
 Clona la siguiente página web intentado que se parezca lo máximo posible:  
-  
+  ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/img%20ej3/Captura%20de%20pantalla%202024-02-26%20133847.png "Sexto paso")
